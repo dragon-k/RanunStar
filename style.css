@@ -29,5 +29,9 @@
 }
 
 .pixiv-class1 {
-  text-align: left;
+  position: relative;
+  margin: 50px;
+  width: 500px;
+  height: 500px;
+  background-color: gray;
 }
