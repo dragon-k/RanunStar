@@ -27,19 +27,3 @@
   margin-left: 120px;
   font-size: 50px;
 }
-
-.pixiv-class1 {
-  position: relative;
-  margin: 50px;
-  width: 1290px;
-  height: 400px;
-  background-color: gray;
-}
-
-.pixivclass2 {
-  position: absolute;
-  top: 100px;
-  left: 20px;
-  width: 0px;
-  height: 0px;
-}
