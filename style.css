@@ -34,3 +34,9 @@
 .pixiv1 {
   margin-top: -201px;
 }
+
+.fuchidori {
+  color: #000;
+  -webkit-text-stroke: 1px #FFF;
+  text-stroke: 1px #FFF;
+}
