@@ -48,4 +48,12 @@
 
 .dk_pix{
     display: inline-block;
+  margin-top: -10%;
+  margin-left: 10%
+}
+
+.mike_pix{
+    display: inline-block;
+    margin-top: -10%;
+ 　 margin-left: 30%
 }
