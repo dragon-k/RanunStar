@@ -47,13 +47,23 @@
 
 
 .dk_pix{
+  width: 50%;
     display: inline-block;
   margin-top: -10%;
   margin-left: 20%
 }
 
+.dk_pix img {
+  width: 100%;
+}
+
 .mike_pix{
+  width: 50%;
     display: inline-block;
     margin-top: -10%;
  　 margin-left: 50%
+}
+
+.mike_pix img {
+ width: 100%;
 }
