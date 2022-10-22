@@ -46,46 +46,13 @@
 }
 
 
-.dk_pix{
+.menber_pix{
   width: 20%;
     display: inline-block;
   margin-top: 0%;
   margin-left: 0%
 }
 
-.dk_pix img {
+.menber_pix img {
   width: 100%;
-}
-
-.mike_pix{
-  width: 20%;
-    display: inline-block;
-    margin-top: -80%;
- 　 margin-left: 70%
-}
-
-.mike_pix img {
- width: 100%;
-}
-
-.nez_pix{
-  width: 20%;
-    display: inline-block;
-    margin-top: -80%;
- 　 margin-left: 140%
-}
-
-.nez_pix img {
- width: 100%;
-}
-
-.ren_pix{
-  width: 20%;
-    display: inline-block;
-    margin-top: -80%;
- 　 margin-left: 210%
-}
-
-.ren_pix img {
- width: 100%;
 }
