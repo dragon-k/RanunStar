@@ -61,9 +61,31 @@
   width: 20%;
     display: inline-block;
     margin-top: -80%;
- 　 margin-left: 50%
+ 　 margin-left: 60%
 }
 
 .mike_pix img {
+ width: 100%;
+}
+
+.nez_pix{
+  width: 20%;
+    display: inline-block;
+    margin-top: -80%;
+ 　 margin-left: 120%
+}
+
+.nez_pix img {
+ width: 100%;
+}
+
+.ren_pix{
+  width: 20%;
+    display: inline-block;
+    margin-top: -80%;
+ 　 margin-left: 180%
+}
+
+.ren_pix img {
  width: 100%;
 }
