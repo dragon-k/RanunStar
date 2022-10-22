@@ -35,6 +35,10 @@
   margin-top: -201px;
 }
 
+.pixiv1 img {
+  width: 100%;
+}
+
 .fuchidori {
   color: #000;
   -webkit-text-stroke: 1px #0067c0;
