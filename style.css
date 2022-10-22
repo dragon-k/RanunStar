@@ -46,14 +46,6 @@
 }
 
 
-<style>
 .dk_pix{
     display: inline-block;
 }
-.example img{
-    display: block;
-}
-</style>
-<a href="#" class="example">
-    <img width="200" src="https://whitetails.jp/" alt="ねこ">
-</a>
