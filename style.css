@@ -49,8 +49,8 @@
 .menber_pix{
   width: 20%;
     display: inline-block;
-  margin-top: -10%;
-  margin-left: 70%
+  margin-top: -10px;
+  margin-left: 70px
 }
 
 .menber_pix img {
