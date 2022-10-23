@@ -56,3 +56,14 @@
 .menber_pix img {
   width: 100%;
 }
+
+.menber2_pix{
+  width: 20%;
+    display: inline-block;
+  margin-top: -50px;
+  margin-left: 45px
+}
+
+.menber2_pix img {
+  width: 100%;
+}
