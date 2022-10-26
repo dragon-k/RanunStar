@@ -55,11 +55,11 @@
 
 .menber_pix img {
   width: 100%;
+  display: block
 }
 
 .member_pix img:hover {
    opacity: 0.6;
- 　　 display: block
 }
 
 .menber2_pix{
@@ -71,9 +71,9 @@
 
 .menber2_pix img {
   width: 100%;
+  display: block
 }
 
 .member2_pix img:hover {
    opacity: 0.6;
- 　　 display: block
 }
