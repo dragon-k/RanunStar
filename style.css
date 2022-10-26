@@ -57,6 +57,10 @@
   width: 100%;
 }
 
+.member_pix img:hover {
+   opacity: 0.6;
+}
+
 .menber2_pix{
   width: 20%;
     display: inline-block;
@@ -66,4 +70,8 @@
 
 .menber2_pix img {
   width: 100%;
+}
+
+.member2_pix img:hover {
+   opacity: 0.6;
 }
