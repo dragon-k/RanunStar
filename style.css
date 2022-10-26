@@ -59,6 +59,7 @@
 
 .member_pix img:hover {
    opacity: 0.6;
+ 　　 display: block
 }
 
 .menber2_pix{
@@ -74,4 +75,5 @@
 
 .member2_pix img:hover {
    opacity: 0.6;
+ 　　 display: block
 }
