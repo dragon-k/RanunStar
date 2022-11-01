@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <meta charset="utf-8">
+    <title>Dragon-k</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="header">
+  <nav class="navigation">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="news.html">News</a></li>
+      <li><a href="member.html">Members</a></li>
+      <li><a href="videos.html">Videos</a></li>
+      <li><a href="history.html">History</a></li>
+      <li><a href="goods.html">Goods</a></li>
+      <li><a href="guideline.html">Guideline</a></li>
+      <li><a href="membership.html">Membership</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  <div class="title-wrapper">
+  </div>
+</header>
+
+<div class="box29">
+    <div class="box-title">執筆者：どらけー</div>
+    
+<p><font size="3">どもっす、どらけーです</font></p>
+<p><font size="3">えーっと、初投稿となると何喋ればええんか分からんくなりますね、まあまずは</font></p>
+<p><font size="8">ホームページ公開！！</font></p>
+<p><font size="3">ということでね、最初のブロマガは私が担当させていただきます</font></p>
+<p><font size="3">今回はラナンスターの動画編集のことについてでも喋りましょうか</font></p>
+<p><font size="3">編集が間に合わなくてともるんに怒られたり</font></p>
+<p><font size="3">編集が間に合わなくてくろっくに圧かけられたり</font></p>
+<p><font size="3">編集が間に合わなくてレンドリーにめちゃめちゃ遊ばれたり</font></p>
+<p><font size="3">この話やめよか</font></p>
+    
+</div>
+
+
+</body>
+</html>
