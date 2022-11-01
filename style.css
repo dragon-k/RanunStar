@@ -82,11 +82,11 @@
 
 .box29 {
     margin: 2em 0;
-    background: #f0e68c;
+    background: #FFF;
 }
 .box29 .box-title {
     font-size: 1.2em;
-    background: #ff8c00;
+    background: #0067c0;
     padding: 6px;
     text-align: center;
     color: #FFF;
@@ -96,4 +96,20 @@
 .box29 p {
     padding: 15px 20px;
     margin: 0;
+}
+
+a.btn--orange {
+  color: #fff;
+  background-color: #2000bf;
+  border-bottom: 5px solid #b84c00;
+}
+a.btn--orange:hover {
+  margin-top: 3px;
+  color: #FFF;
+  background: #0067c0;
+  border-bottom: 2px solid #b84c00;
+}
+a.btn--shadow {
+  -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
 }
