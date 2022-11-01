@@ -80,11 +80,11 @@
    opacity: 0.6;
 }
 
-.box29 {
+.box1 {
     margin: 2em 0;
     background: #99eeff;
 }
-.box29 .box-title {
+.box1 .box-title {
     font-size: 1.2em;
     background: #0067c0;
     padding: 6px;
@@ -93,7 +93,25 @@
     font-weight: bold;
     letter-spacing: 0.05em;
 }
-.box29 p {
+.box1 p {
+    padding: 15px 20px;
+    margin: 0;
+}
+
+.box2 {
+    margin: 2em 0;
+    background: #99eeff;
+}
+.box2 .box-title {
+    font-size: 1.2em;
+    background: #0067c0;
+    padding: 6px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+.box2 p {
     padding: 15px 20px;
     margin: 0;
 }
