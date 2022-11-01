@@ -79,3 +79,21 @@
 .member2_pix img:hover {
    opacity: 0.6;
 }
+
+.box29 {
+    margin: 2em 0;
+    background: #f0e68c;
+}
+.box29 .box-title {
+    font-size: 1.2em;
+    background: #ff8c00;
+    padding: 6px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+.box29 p {
+    padding: 15px 20px;
+    margin: 0;
+}
