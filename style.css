@@ -152,6 +152,24 @@
     margin: 0;
 }
 
+.box_kiara {
+    margin: 2em 0;
+    background: #FFF;
+}
+.box_kiara .box-title {
+    font-size: 1.2em;
+    background: #ff4da6;
+    padding: 6px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+.box_kiara p {
+    padding: 15px 20px;
+    margin: 0;
+}
+
 a.btn--orange {
   color: #fff;
   background-color: #0067c0;
