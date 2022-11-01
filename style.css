@@ -100,14 +100,14 @@
 
 a.btn--orange {
   color: #fff;
-  background-color: #2000bf;
-  border-bottom: 5px solid #b84c00;
+  background-color: #0067c0;
+  border-bottom: 5px solid #2000bf;
 }
 a.btn--orange:hover {
   margin-top: 3px;
   color: #FFF;
   background: #0067c0;
-  border-bottom: 2px solid #b84c00;
+  border-bottom: 2px solid #2000bf;
 }
 a.btn--shadow {
   -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
