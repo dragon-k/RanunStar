@@ -1,5 +1,7 @@
 .header {
   font-family: HeadLineA;
+    -webkit-text-stroke: 1px #FFF;
+  text-stroke: 1px #FFF;
   width: 100%;
   left: 0;
   top: 0;
