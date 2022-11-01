@@ -4,8 +4,8 @@
   text-stroke: 1px #FFF;
   width: 100%;
   left: 0;
-  top: -5;
-  height: 250px;
+  top: 0;
+  height: 260px;
   background-image: url(header-img.jpg);
 }
 .navigation {
@@ -82,7 +82,7 @@
 
 .box29 {
     margin: 2em 0;
-    background: #FFF;
+    background: #99eeff;
 }
 .box29 .box-title {
     font-size: 1.2em;
