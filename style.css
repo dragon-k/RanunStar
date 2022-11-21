@@ -7,7 +7,6 @@
   top: 0;
   height: 260px;
   background-image: url(header-img.jpg);
-  border-bottom: 2px solid #ff0000;
 }
 .navigation {
   width: 100%;
@@ -23,6 +22,7 @@
 }
 .navigation li {
   margin-right: 55px;
+  border-bottom: 2px solid #ff0000;
   font-size: 2rem;
 }
 .navigation a {
