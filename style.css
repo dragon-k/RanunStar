@@ -22,6 +22,8 @@
 }
 .navigation li {
   margin-right: 55px;
+  text-decoration:underline;/*下線を引く*
+  text-decoration-color:#FF0000;/*下線を赤色*
   font-size: 2rem;
 }
 .navigation a {
@@ -61,8 +63,8 @@
   display: block
 }
 
-.member_pix img:hover {
-   opacity: 0.6;
+.member_pix:hover img {
+  opacity: 0.5;
 }
 
 .menber2_pix{
@@ -77,8 +79,8 @@
   display: block
 }
 
-.member2_pix img:hover {
-   opacity: 0.6;
+.member2_pix:hover img {
+  opacity: 0.5;
 }
 
 .box1 {
