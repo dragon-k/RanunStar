@@ -11,7 +11,7 @@
 .navigation {
   width: 100%;
   height: 90px;
-  background-color: #0067c0;
+  background-color: #87cefa;
   padding-top: 15px;
   box-sizing: border-box;
 }
@@ -22,7 +22,7 @@
 }
 .navigation li {
   margin-right: 55px;
-  border-bottom: 2px solid #ff0000;
+  border-bottom: 2px solid #0000cd;
   font-size: 2rem;
 }
 .navigation a {
