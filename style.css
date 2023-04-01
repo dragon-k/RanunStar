@@ -229,3 +229,19 @@ a.btn--shadow {
     margin: 0; 
     padding: 0;
 }
+
+
+.img_ac1 a {
+  background:#fff;
+  border:2px solid #ddd;
+  display:block;
+  width: 400px;
+  height: 226px;
+}
+.img_ac1 a:hover {
+  opacity:.6
+}
+.img_ac1 img {
+  width: 100%;
+  transition-duration: 0.8s;
+}
